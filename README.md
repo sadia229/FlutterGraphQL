@@ -1,4 +1,4 @@
-# fluttergraphql
+# Flutter API integration using GraphQL
 
 ## Project State management
 ```
